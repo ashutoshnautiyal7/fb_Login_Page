@@ -1,0 +1,5 @@
+/* note this file is created in tut3---while setting up tailwind for major dev--- */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
